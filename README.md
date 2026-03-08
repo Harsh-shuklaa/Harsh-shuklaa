@@ -1,96 +1,127 @@
-<h1 align="center">👋 Hey, I'm <strong>Harsh Shukla</strong></h1>
-<h3 align="center">🚀 Frontend Developer | React | UI Engineer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh-shuklaa&label=Profile%20Views&color=blueviolet&style=flat-square" alt="views"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:38bdf8&height=250&section=header&text=HARSH&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Frontend%20Developer%20•%20React%20Learner%20•%20DSA%20Enthusiast&descAlignY=70&descSize=20"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Harsh-shuklaa&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS&abbreviated=true"/>
+
+ 
+
+<img src="https://img.shields.io/badge/Frontend-Developer-0ea5e9?style=for-the-badge&logo=react&logoColor=white"/>
+
+ 
+
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=for-the-badge&logo=handshake&logoColor=white"/>
+
+</div>
+
 
 ---
 
-## 🧠 About Me  
-- 🎨 I build fast, clean UIs with **React + Tailwind**  
-- 🧩 Solving **DSA** on LeetCode (username: harsh1516)  
-- 🌱 Learning **Node + Express** for full-stack depth  
-- 🤦 Fun fact: I debug using **stack overflow + prayers** daily  
+# ◈ Who Am I?
+
+Hey! I'm **Harsh**, a developer who enjoys building **clean web interfaces and solving algorithm problems**.
+
+Right now I'm focused on **learning React deeply**, building projects, and improving my **DSA problem-solving skills**.
+
+```js
+const harsh = {
+  role: "Frontend Developer",
+  tech: ["React", "JavaScript", "HTML", "CSS"],
+  learning: ["Advanced React", "System Design", "DSA"],
+  leetcode: "Harsh1516",
+  openToWork: true
+}
+```
 
 ---
 
-## 💼 Career Status
-- 🟢 Actively looking for **Frontend Developer** roles (Intern / Full-Time)
-- 🛠 Skilled in **React, Tailwind, JavaScript, REST APIs**
-- 🚀 Currently learning **Node.js & Express** for backend depth
-- 🤝 Open to **On-site (India) + Remote** opportunities
-- 📍 Preferred: Mohali, Bangalore, Pune (but flexible)
-- 📅 Availability: **Immediate**
+# ◈ Quick Stats
 
+<div align="center">
 
-## 🛠 Tech Stack
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-shuklaa&theme=tokyonight&background=020617&ring=0ea5e9&fire=38bdf8&currStreakLabel=7dd3fc"/>
 
-### 🎯 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"/>
-</p>
-
-### 🖧 Backend + DB
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"/>
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🗂 Projects
-| Project | Stack | Link |
-|---|---|---|
-| 🌐 Portfolio | React + Tailwind | https://harshhh-portfolio.netlify.app |
-| 📦 More incoming... | Node.js + React | Coming soon |
+# ◈ What I Do
+
+<div align="center">
+
+|    | Skill                | Real Meaning                                      |
+| -- | -------------------- | ------------------------------------------------- |
+| ⚛️ | React Development    | Building interactive UI with components and hooks |
+| 💻 | Frontend Development | Responsive layouts using HTML, CSS, JS            |
+| 🔌 | API Integration      | Fetching and displaying dynamic data              |
+| 🧠 | DSA Practice         | Solving algorithm problems regularly              |
+| 🎨 | UI Building          | Clean, simple and usable interfaces               |
+| ⚙️ | Git Workflow         | Version control and collaboration                 |
+
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+# ◈ Tech Stack
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=harsh-shuklaa&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-shuklaa&layout=compact&theme=radical&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-shuklaa&theme=radical&hide_border=true"/>
-</p>
+### Languages
 
-<p align="center">
-  <img height="320" src="https://github-profile-trophy.vercel.app/?username=harsh-shuklaa&theme=radical&no-bg=true&row=1&column=7" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-020617?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-020617?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-020617?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+
+</div>
+
+---
+
+# ◈ GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-shuklaa&bg_color=020617&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true"/>
 
 ---
 
-## 🔗 Social Links
-<p>
-  <a href="https://linkedin.com/in/harsh-shukla-2b60142b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/harrsshhh_01"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"/></a>
-  <a href="https://leetcode.com/harsh1516"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white"/></a>
-</p>
+# ◈ Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Harsh-shuklaa">
+<img src="https://img.shields.io/badge/GitHub-Follow-020617?style=for-the-badge&logo=github"/>
+</a>
+
+ 
+
+<a href="https://leetcode.com/Harsh1516">
+<img src="https://img.shields.io/badge/LeetCode-Profile-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+ 
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+</div>
 
 ---
 
-## 📁 Portfolio & Resume
-- 👨‍💻 Portfolio — https://harshhh-portfolio.netlify.app  
-- 📄 Resume — https://drive.google.com/file/d/1vjqgzg2W7HIpxZVY6dUNvX4ZRcf4WRWD/view  
-- 📫 Mail — **harsh9468121516@gmail.com**
+<div align="center">
 
----
+⭐ If you like my projects, consider starring them.
+
+</div>
