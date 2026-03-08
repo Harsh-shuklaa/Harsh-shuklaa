@@ -1,21 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0ea5e9,100:38bdf8&height=250&section=header&text=HARSH&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Frontend%20Developer%20•%20React%20Learner%20•%20DSA%20Enthusiast&descAlignY=70&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:a855f7,100:c084fc&height=250&section=header&text=HARSH&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Frontend%20Developer%20•%20React%20Learner%20•%20DSA%20Enthusiast&descAlignY=70&descSize=20"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Harsh-shuklaa&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS&abbreviated=true"/>
+<div align="center">
 
- 
-
-<img src="https://img.shields.io/badge/Frontend-Developer-0ea5e9?style=for-the-badge&logo=react&logoColor=white"/>
-
- 
-
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=for-the-badge&logo=handshake&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Harsh-shuklaa&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS"/>    <img src="https://img.shields.io/badge/Frontend-Developer-a855f7?style=for-the-badge&logo=react&logoColor=white"/>    <img src="https://img.shields.io/badge/Open%20To-Opportunities-c084fc?style=for-the-badge&logo=handshake&logoColor=white"/>
 
 </div>
 
+
+</div>
 
 ---
 
@@ -37,13 +33,16 @@ const harsh = {
 
 ---
 
+
+
 # ◈ Quick Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-shuklaa&theme=tokyonight&background=020617&ring=0ea5e9&fire=38bdf8&currStreakLabel=7dd3fc"/>
+<img src="https://streak-stats.demolab.com?user=Harsh-shuklaa&theme=tokyonight&background=0d0d14&ring=a855f7&fire=c084fc&currStreakLabel=c084fc&sideNums=c084fc&sideLabels=c084fc&dates=ffffff&border=3b1f6e&hide_border=false"/>
 
 </div>
+
 
 ---
 
@@ -70,21 +69,21 @@ const harsh = {
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d14?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0d0d14?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d14?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d14?style=for-the-badge\&logo=css3\&logoColor=1572B6)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-020617?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-020617?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
+![React](https://img.shields.io/badge/React-0d0d14?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d14?style=for-the-badge\&logo=tailwindcss\&logoColor=38BDF8)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-020617?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-020617?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0d0d14?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d14?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d14?style=for-the-badge\&logo=visualstudiocode\&logoColor=007ACC)
 
 </div>
 
@@ -92,7 +91,7 @@ const harsh = {
 
 # ◈ GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-shuklaa&bg_color=020617&color=38bdf8&line=0ea5e9&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-shuklaa&bg_color=0d0d14&color=c084fc&line=a855f7&point=ffffff&area=true&hide_border=true"/>
 
 ---
 
@@ -100,23 +99,11 @@ const harsh = {
 
 <div align="center">
 
-<a href="https://github.com/Harsh-shuklaa">
-<img src="https://img.shields.io/badge/GitHub-Follow-020617?style=for-the-badge&logo=github"/>
-</a>
-
- 
-
-<a href="https://leetcode.com/Harsh1516">
-<img src="https://img.shields.io/badge/LeetCode-Profile-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
- 
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+<a href="https://github.com/Harsh-shuklaa"><img src="https://img.shields.io/badge/GitHub-Follow-0d0d14?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://leetcode.com/Harsh1516"><img src="https://img.shields.io/badge/LeetCode-Profile-0d0d14?style=for-the-badge&logo=leetcode&logoColor=FFA116"></a> <a href="https://www.linkedin.com/in/harsh-shukla-2b60142b1/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0d0d14?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
 
 </div>
+
+
 
 ---
 
