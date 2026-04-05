@@ -24,7 +24,7 @@ Right now I'm focused on **learning React deeply**, building projects, and impro
 ```js
 const harsh = {
   role: "Frontend Developer",
-  tech: ["React", "JavaScript", "HTML", "CSS"],
+  tech: ["React", "Redux","JavaScript", "HTML", "CSS"],
   learning: ["Advanced React", "System Design", "DSA"],
   leetcode: "Harsh1516",
   openToWork: true
